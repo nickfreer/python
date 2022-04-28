@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6cf68c7-744b-48cf-9220-d051376016d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSPRip1UN5HRoCAMxq2xxW9HGk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tryout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openshift-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tryout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6cf68c7-744b-48cf-9220-d051376016d0" name="Default Changelist" comment="" />
+      <created>1601898013274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601898013274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1418" height="218" key="GridCell.Tab.0.bottom" timestamp="1602067918220">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1369" height="218" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.841@-1920.-157.1920.1057" timestamp="1601992829146" />
+    <state width="1369" height="218" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.842@-1920.-157.1920.1057" timestamp="1601999809073" />
+    <state width="1418" height="218" key="GridCell.Tab.0.bottom/-1920.-157.1920.1057/0.23.1440.842@0.23.1440.842" timestamp="1602067918220" />
+    <state width="1419" height="218" key="GridCell.Tab.0.bottom/0.23.1440.842@0.23.1440.842" timestamp="1602008110188" />
+    <state width="1418" height="218" key="GridCell.Tab.0.center" timestamp="1602067918219">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1369" height="218" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.841@-1920.-157.1920.1057" timestamp="1601992829145" />
+    <state width="1369" height="218" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.842@-1920.-157.1920.1057" timestamp="1601999809072" />
+    <state width="1418" height="218" key="GridCell.Tab.0.center/-1920.-157.1920.1057/0.23.1440.842@0.23.1440.842" timestamp="1602067918219" />
+    <state width="1419" height="218" key="GridCell.Tab.0.center/0.23.1440.842@0.23.1440.842" timestamp="1602008110187" />
+    <state width="1418" height="218" key="GridCell.Tab.0.left" timestamp="1602067918219">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1369" height="218" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.841@-1920.-157.1920.1057" timestamp="1601992829145" />
+    <state width="1369" height="218" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.842@-1920.-157.1920.1057" timestamp="1601999809071" />
+    <state width="1418" height="218" key="GridCell.Tab.0.left/-1920.-157.1920.1057/0.23.1440.842@0.23.1440.842" timestamp="1602067918219" />
+    <state width="1419" height="218" key="GridCell.Tab.0.left/0.23.1440.842@0.23.1440.842" timestamp="1602008110186" />
+    <state width="1418" height="218" key="GridCell.Tab.0.right" timestamp="1602067918220">
+      <screen x="0" y="23" width="1440" height="842" />
+    </state>
+    <state width="1369" height="218" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.841@-1920.-157.1920.1057" timestamp="1601992829146" />
+    <state width="1369" height="218" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.842@-1920.-157.1920.1057" timestamp="1601999809072" />
+    <state width="1418" height="218" key="GridCell.Tab.0.right/-1920.-157.1920.1057/0.23.1440.842@0.23.1440.842" timestamp="1602067918220" />
+    <state width="1419" height="218" key="GridCell.Tab.0.right/0.23.1440.842@0.23.1440.842" timestamp="1602008110188" />
+  </component>
+</project>
